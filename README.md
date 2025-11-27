@@ -25,3 +25,4 @@ Step 6: Simulator will make a graph on the right side of the simulator interacti
 <img width="603" height="343" alt="image" src="https://github.com/user-attachments/assets/b28bc2bb-526a-4c03-846d-7c11ec0ac391" /> 
 
 ## Result :
+Thus we studied and calibrated Instrumentation Amplifiers.
